@@ -1,6 +1,12 @@
+<!-- Banner background -->
+
 <h1 align="center">🌌 Welcome to My Universe 🌌</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Tran+Van+Hai;Web+Developer+from+Vietnam;Let's+build+something+awesome!" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fd/e9/e8/fde9e8ba1695edb37c19f1de2e6a33a3.gif" width="150" alt="Astronaut Avatar" />
 </p>
 
 ---
