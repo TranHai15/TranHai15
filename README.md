@@ -1,44 +1,58 @@
-## 👋 Hello! I'm Trần Văn Hải
-
-🎓 I'm currently a student at **FPT Polytechnic**, majoring in **Web Programming**.  
-🌍 From Thanh Hóa, Việt Nam 🇻🇳  
-💡 I’m passionate about building useful web applications and improving user experience.  
-🚀 I’m working on a graduation project that combines **shopping, education, and food** into an "All-in-one" web app.  
-🌱 I’m currently learning **React.js**, **Node.js**, and **MongoDB** to build full-stack applications.  
-💬 Ask me about: `JavaScript`, `Node.js`, `React`, `HTML/CSS`, `MySQL`, `API design`  
-📫 How to reach me:  
-- Email: `your-email@example.com`  
-- Facebook: [Trần Hải](https://www.facebook.com/yourusername)  
-- GitHub: [TranHai15](https://github.com/TranHai15)
+<h1 align="center">🌌 Welcome to My Universe 🌌</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Tran+Van+Hai;Web+Developer+from+Vietnam;Let's+build+something+awesome!" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍🚀 About Me
 
-- 💻 Frontend: HTML, CSS, JavaScript, React.js  
-- 🖥️ Backend: Node.js, Express.js, PHP (basic)  
-- 🗄️ Database: MySQL, MongoDB (learning)  
-- 🧰 Tools: Git, Postman, VSCode  
-
----
-
-## 📌 Current Goals
-
-- 🎯 Improve my English communication skills  
-- 🎯 Master React.js and build more dynamic UIs  
-- 🎯 Learn about RESTful APIs and JWT authentication  
-- 🎯 Collaborate on open source or team projects  
+- 🌠 Name: **Trần Văn Hải**  
+- 🧑‍🎓 Student at **FPT Polytechnic** – Web Programming Major  
+- 🌏 From: **Thanh Hóa, Việt Nam**  
+- 💻 Passionate about: **Frontend + Backend**, **Clean Code**, and **UI/UX**  
+- 🚀 Current Mission: Build an **"All-In-One" Web App** (Shopping 🛒, Learning 📚, Food & Cooking 🍲)  
+- 🧠 Always learning: `React.js`, `Node.js`, `MongoDB`, and cloud-based services  
 
 ---
 
-## 📈 GitHub Stats
+## 🪐 Tech Galaxy
 
-![TranHai15's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranHai15&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranHai15&layout=compact&theme=radical)
+| Planet | Tech Stack |
+|--------|------------|
+| 🌍 Frontend | HTML5, CSS3, JavaScript, React.js |
+| 🌌 Backend | Node.js, Express.js, PHP (basic) |
+| 🌠 Database | MySQL, MongoDB |
+| 🛸 Tools | Git, GitHub, Postman, VS Code |
 
 ---
 
-## ⚡ Fun fact
+## 👁️‍🗨️ Vision & Goals
 
-> I love solving real-life problems with code and turning ideas into reality. I believe programming can change lives — including mine! 😊
+- 🌐 Build meaningful full-stack apps  
+- 💬 Communicate fluently in English  
+- 👨‍💻 Collaborate on open-source or real-world projects  
+- 🧩 Explore AI & Automation in Web  
 
+---
+
+## 🌟 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TranHai15&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHai15&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+---
+
+## 📡 Connect with Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://github.com/TranHai15"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+> 🛰️ *“Code is the language of the universe — let’s explore it together.”* – TranHai15 🚀
