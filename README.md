@@ -1,64 +1,116 @@
-<!-- Banner background -->
+# 🌌 Welcome to My Digital Universe 🌌
 
-<h1 align="center">🌌 Welcome to My Universe 🌌</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Tran+Van+Hai;Web+Developer+from+Vietnam;Let's+build+something+awesome!" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/fd/e9/e8/fde9e8ba1695edb37c19f1de2e6a33a3.gif" width="150" alt="Astronaut Avatar" />
-</p>
-
----
-
-## 👨‍🚀 About Me
-
-- 🌠 Name: **Trần Văn Hải**  
-- 🧑‍🎓 Student at **FPT Polytechnic** – Web Programming Major  
-- 🌏 From: **Thanh Hóa, Việt Nam**  
-- 💻 Passionate about: **Frontend + Backend**, **Clean Code**, and **UI/UX**  
-- 🚀 Current Mission: Build an **"All-In-One" Web App** (Shopping 🛒, Learning 📚, Food & Cooking 🍲)  
-- 🧠 Always learning: `React.js`, `Node.js`, `MongoDB`, and cloud-based services  
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=500&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=👋+Hi%2C+I'm+Trần+Văn+Hải;🚀+Full-Stack+Developer;💫+From+Vietnam;✨+Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <img src="https://i.pinimg.com/originals/fd/e9/e8/fde9e8ba1695edb37c19f1de2e6a33a3.gif" width="150" alt="Avatar" />
+  
+  <img src="https://komarev.com/ghpvc/?username=TranHai15&style=for-the-badge&color=blueviolet" alt="Views" />
+  
+</div>
 
 ---
 
-## 🪐 Tech Galaxy
+## 🚀 About Me
 
-| Planet | Tech Stack |
-|--------|------------|
-| 🌍 Frontend | HTML5, CSS3, JavaScript, React.js |
-| 🌌 Backend | Node.js, Express.js, PHP (basic) |
-| 🌠 Database | MySQL, MongoDB |
-| 🛸 Tools | Git, GitHub, Postman, VS Code |
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
----
+```yaml
+🏠 Location: Thanh Hóa, Việt Nam
+🎓 Education: FPT Polytechnic
+💼 Role: Web Developer Student
+🎯 Mission: All-In-One Web Platform
+```
 
-## 👁️‍🗨️ Vision & Goals
-
-- 🌐 Build meaningful full-stack apps  
-- 💬 Communicate fluently in English  
-- 👨‍💻 Collaborate on open-source or real-world projects  
-- 🧩 Explore AI & Automation in Web  
+🌟 **Interests:** Frontend • Backend • UI/UX • Clean Code  
+🔥 **Learning:** React.js • Node.js • MongoDB • Cloud Services  
+🚀 **Goals:** Build SaaS • Open Source • Master Full-Stack
 
 ---
 
-## 🌟 GitHub Stats
+## 🛸 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TranHai15&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHai15&layout=compact&theme=tokyonight" width="47%" />
-</p>
+<div align="center">
+
+**Frontend**  
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,sass,tailwind&theme=dark)](https://skillicons.dev)
+
+**Backend**  
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,php,python,java&theme=dark)](https://skillicons.dev)
+
+**Database**  
+[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&theme=dark)](https://skillicons.dev)
+
+**Tools**  
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 📡 Connect with Me
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://github.com/TranHai15"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TranHai15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHai15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TranHai15&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="Streak"/>
+</div>
 
 ---
 
-> 🛰️ *“Code is the language of the universe — let’s explore it together.”* – TranHai15 🚀
+## 🎯 Current Project
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
+
+### 🛒 E-Commerce • 📚 Learning • 🍲 Food Platform
+**React.js + Node.js + MongoDB**
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=TranHai15&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TranHai15)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌟 "Code is the language of the universe" 🌟
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  **⭐ Star if you like my profile!**
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You!&fontSize=16&fontAlignY=65&desc=Have%20a%20great%20day!&descAlignY=80&descAlign=50" width="100%"/>
+</div>
