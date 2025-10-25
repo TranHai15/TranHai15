@@ -26,8 +26,7 @@
 ```
 
 🌟 **Interests:** Frontend • Backend • UI/UX • Clean Code  
-🔥 **Learning:** React.js • Node.js • MongoDB • Cloud Services  
-🚀 **Goals:** Build SaaS • Open Source • Master Full-Stack
+🔥 **Learning:** React.js • Node.js • MongoDB • Laravel • Nextjs
 
 ---
 
@@ -36,16 +35,16 @@
 <div align="center">
 
 **Frontend**  
-[![Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,sass,tailwind&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind&theme=dark)](https://skillicons.dev)
 
 **Backend**  
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,php,python,java&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,php,python,&theme=dark)](https://skillicons.dev)
 
 **Database**  
 [![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&theme=dark)](https://skillicons.dev)
 
 **Tools**  
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -71,7 +70,7 @@
 </div>
 
 ### 🛒 E-Commerce • 📚 Learning • 🍲 Food Platform
-**React.js + Node.js + MongoDB**
+**React.js + Node.js + mysql**
 
 ---
 
@@ -89,11 +88,10 @@
 
 <div align="center">
   
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hairobet15092005@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.hai.570628)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TranHai15)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+
   
 </div>
 
